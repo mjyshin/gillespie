@@ -1,2 +1,2 @@
 # stat-35420
-Gillespie algorithm
+SSA for Gillespie (1977) for figures 6 and 8.
